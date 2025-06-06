@@ -1,0 +1,6 @@
+{
+    "require": {
+        "league/plates": "*",
+        "altorouter/altorouter": "*"
+    }
+}
